@@ -1,0 +1,15 @@
+[ {
+  "courseID" : 10,
+  "name" : "Datenbanken",
+  "teacher" : "Diana",
+  "maxEnrolled" : 30,
+  "studentsEnrolled" : [ 100 ],
+  "credits" : 30
+}, {
+  "courseID" : 11,
+  "name" : "DB",
+  "teacher" : "",
+  "maxEnrolled" : 10,
+  "studentsEnrolled" : [ 101],
+  "credits" : 30
+} ]

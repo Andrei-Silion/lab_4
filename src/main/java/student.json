@@ -1,0 +1,13 @@
+[ {
+  "firstName" : "Andrei",
+  "lastName" : "Silion",
+  "studentID" : 100,
+  "credits" : 6,
+  "enrolledCourses" : [ 10, 11 ]
+}, {
+  "firstName" : "Toto",
+  "lastName" : "Pisic",
+  "studentID" : 101,
+  "credits" : 6,
+  "enrolledCourses" : [10]
+} ]
